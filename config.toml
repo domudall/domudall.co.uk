@@ -1,0 +1,41 @@
+baseurl = "http://domudall.co.uk/"
+copyright = "All rights reserved - 2016"
+# disqusshortname = "domudall"
+languageCode = "en-gb"
+paginate = 5
+pluralizelisttitles = false
+theme = "casper"
+title = "Dom Udall"
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = -120
+[[menu.main]]
+name = "Github repos"
+pre = "<h3>Follow me</h3>"
+url = "https://github.com/domudall"
+weight = 100
+[[menu.main]]
+name = "Twitter timeline"
+url = "https://twitter.com/domudall"
+weight = 101
+[params]
+author = "Dom Udall"
+authorlocation = "Bristol, United Kingdom"
+authorwebsite = "http://domudall.co.uk/"
+bio = "Head of Engineering at Connected Ventures"
+cover = "images/computer.png"
+description = "There's always time to screw up again"
+githubName = "domudall"
+googleAnalyticsUserID = "UA-79929060-1"
+hideHUGOSupport = false
+# logo = "images/"
+twitterName = "domudall"
+instagramName = "domudall"
+[permalinks]
+post = "/:slug/"
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
