@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dom Udall</title>
+    <link>http://domudall.co.uk/</link>
+    <description>Recent content on Dom Udall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Tue, 28 Jun 2016 15:03:46 +0100</lastBuildDate>
+    <atom:link href="http://domudall.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Fresh Start</title>
+      <link>http://domudall.co.uk/fresh-start/</link>
+      <pubDate>Tue, 28 Jun 2016 15:03:46 +0100</pubDate>
+      
+      <guid>http://domudall.co.uk/fresh-start/</guid>
+      <description>&lt;p&gt;This post will most likely be deleted, but this is the new direction for my website! Please check back for more content in future.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
