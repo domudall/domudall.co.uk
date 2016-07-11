@@ -2,7 +2,6 @@
 comments = false
 date = "2016-06-28T17:43:33+01:00"
 draft = true
-image = "images/missing-keys.jpg"
 menu = ""
 share = true
 slug = "deploying-hugo-site-aws-s3-codeship"
